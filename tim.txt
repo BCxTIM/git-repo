@@ -1,1 +1,2 @@
 print("tim")
+prnt("tim3")
