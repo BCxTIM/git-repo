@@ -1,6 +1,2 @@
 print("Hello world!")
-<<<<<<< HEAD
-=======
-print("Hello everybody")
->>>>>>> 9149a3a74089f4caf45002c15898583f1574a790
 print("Hello")
