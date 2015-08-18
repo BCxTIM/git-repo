@@ -1,1 +1,2 @@
 print("galaxy")
+print("galaxy1")
